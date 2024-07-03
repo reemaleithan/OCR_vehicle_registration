@@ -1,4 +1,4 @@
-python -m venv newenv
-source newenv/bin/activate  # On Windows: .\newenv\Scripts\activate
-pip install -r requirements.txt
-streamlit run app.py
+streamlit
+google-cloud-vision
+opencv-python-headless
+Pillow
